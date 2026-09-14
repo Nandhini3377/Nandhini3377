@@ -51,15 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nandhini3377&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhini3377&layout=compact" />
-</p>
-
----
-
 ### 🎓 Education
 
 **B.E, Computer Science and Engineering** — Velalar College of Engineering and Technology, Erode
